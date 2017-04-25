@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A67B6BBD-9E7F-BAE1-A6C6-22202137F289}") = "WorldFighter", "Assembly-CSharp.csproj", "{E90A23B5-0456-032F-B7E0-65AD52B8E90F}"
+EndProject
+Project("{A67B6BBD-9E7F-BAE1-A6C6-22202137F289}") = "WorldFighter", "Assembly-UnityScript.unityproj", "{A02AF691-E7F6-7E32-1277-450631079BCF}"
+EndProject
+Project("{A67B6BBD-9E7F-BAE1-A6C6-22202137F289}") = "WorldFighter", "Assembly-UnityScript-Editor.unityproj", "{46D66B0B-E3F5-BE19-4254-E03650076879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90A23B5-0456-032F-B7E0-65AD52B8E90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90A23B5-0456-032F-B7E0-65AD52B8E90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90A23B5-0456-032F-B7E0-65AD52B8E90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90A23B5-0456-032F-B7E0-65AD52B8E90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02AF691-E7F6-7E32-1277-450631079BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02AF691-E7F6-7E32-1277-450631079BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02AF691-E7F6-7E32-1277-450631079BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02AF691-E7F6-7E32-1277-450631079BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D66B0B-E3F5-BE19-4254-E03650076879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D66B0B-E3F5-BE19-4254-E03650076879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D66B0B-E3F5-BE19-4254-E03650076879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D66B0B-E3F5-BE19-4254-E03650076879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
